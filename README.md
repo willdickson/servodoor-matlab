@@ -8,12 +8,11 @@ experiments. The Serovo 2040 must be running the
 
 ## Installing
 Add the servodoor-matlab/src directory to your Matlab PATH. 
-```
 
 
 ## Usage
 
-```
+```matlab
 function servodoor_example()
     % servodoor_example: simple example function demonstrating how to use
     % ServoDoor.
@@ -81,4 +80,3 @@ function servodoor_example()
 
 end
 ```
-
