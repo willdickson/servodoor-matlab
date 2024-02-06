@@ -12,7 +12,7 @@ Add the servodoor-matlab/src directory to your Matlab PATH.
 
 
 ## Usage
-```matlab
+```Matlab
 function servodoor_example()
     % servodoor_example: simple example function demonstrating how to use
     % ServoDoor.
